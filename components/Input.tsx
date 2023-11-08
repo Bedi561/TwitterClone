@@ -13,3 +13,4 @@ const Input: React.FC<InputProps> = ({placeholder,value,type,disabled,onChange})
 
     )
 }
+export default Input;
