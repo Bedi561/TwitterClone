@@ -18,3 +18,5 @@ const useUser = (userId: string) => {
     }
 
 }
+
+export default useUser;
